@@ -1,0 +1,18 @@
+.App {
+  margin: 16px;
+}
+
+.length {
+  font-size: 12px;
+  color: grey;
+}
+
+.Validation {
+  font-weight: bold;
+}
+
+input {
+  padding: 10px;
+  border-radius: 10px;
+  border: 1px solid grey;
+}
